@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "mystream",
+      "description": "asdsa",
+      "id": 1
+    },
+    {
+      "title": "mysecond",
+      "description": "hello",
+      "id": 2
+    },
+    {
+      "title": "sipdfdsfa",
+      "description": "my ",
+      "id": 5
+    },
+    {
+      "title": "my stream",
+      "description": "My second one",
+      "userId": "109498527297192802187",
+      "id": 7
+    }
+  ]
+}
